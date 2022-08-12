@@ -17,5 +17,3 @@ Exploratory Data Analysis, Feature Engineering and Predict Price Model.
 [//]: # (🡡 Parágrafos falando mais especificadamente sobre o projeto --)
 
 ![SALE](https://github.com/ViniciusHolanda001/Boston_Housing_DS/blob/main/data/images/boston_housing.png "FOR_SALE")
-
-        
